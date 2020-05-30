@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff46535e-e12f-4226-90d9-c9c62f3f357f" name="Default Changelist" comment="" />
+    <list default="true" id="ff46535e-e12f-4226-90d9-c9c62f3f357f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CustomThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CustomThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MTBasics$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MTBasics$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MTBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MTBasics.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cMD6PyCy62CXeTrStDkhWMErCJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +38,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/demo-jdbc4/demo-jdbc4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CustomThread">
+    <configuration name="CustomThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomThread" />
+      <module name="Maven-MT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MTBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MTBasics" />
       <module name="MT-Maven" />
@@ -36,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomThread" />
         <item itemvalue="Application.MTBasics" />
       </list>
     </recent_temporary>
@@ -66,6 +92,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="329" y="0" width="726" height="728" key="#MTBasics" timestamp="1590841446927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="0" width="726" height="728" key="#MTBasics/0.0.1366.728@0.0.1366.728" timestamp="1590841446927" />
     <state x="175" y="0" key="#Notifications" timestamp="1590331710128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -74,42 +104,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590329848847" />
-    <state x="444" y="5" key="#com.intellij.ide.util.MemberChooser" timestamp="1590336202350">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1590846378628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="5" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590336202350" />
-    <state width="1311" height="139" key="GridCell.Tab.0.bottom" timestamp="1590339245776">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590846378628" />
+    <state x="413" y="61" key="FileChooserDialogImpl" timestamp="1590850101212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
-    <state width="1311" height="139" key="GridCell.Tab.0.center" timestamp="1590339245776">
+    <state x="413" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590850101212" />
+    <state width="1311" height="3" key="GridCell.Tab.0.bottom" timestamp="1590850847174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
-    <state width="1311" height="139" key="GridCell.Tab.0.left" timestamp="1590339245775">
+    <state width="1311" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590850847174" />
+    <state width="1311" height="3" key="GridCell.Tab.0.center" timestamp="1590850847174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590339245775" />
-    <state width="1311" height="139" key="GridCell.Tab.0.right" timestamp="1590339245776">
+    <state width="1311" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590850847174" />
+    <state width="1311" height="3" key="GridCell.Tab.0.left" timestamp="1590850847174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
-    <state width="1311" height="197" key="GridCell.Tab.1.bottom" timestamp="1590335446840">
+    <state width="1311" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590850847174" />
+    <state width="1311" height="3" key="GridCell.Tab.0.right" timestamp="1590850847174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="197" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
-    <state width="1311" height="197" key="GridCell.Tab.1.center" timestamp="1590335446840">
+    <state width="1311" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590850847174" />
+    <state width="1311" height="3" key="GridCell.Tab.1.bottom" timestamp="1590850847175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="197" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
-    <state width="1311" height="197" key="GridCell.Tab.1.left" timestamp="1590335446840">
+    <state width="1311" height="3" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590850847175" />
+    <state width="1311" height="3" key="GridCell.Tab.1.center" timestamp="1590850847175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="197" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
-    <state width="1311" height="197" key="GridCell.Tab.1.right" timestamp="1590335446840">
+    <state width="1311" height="3" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590850847175" />
+    <state width="1311" height="3" key="GridCell.Tab.1.left" timestamp="1590850847174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="197" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
+    <state width="1311" height="3" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590850847174" />
+    <state width="1311" height="3" key="GridCell.Tab.1.right" timestamp="1590850847175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="3" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590850847175" />
     <state x="337" y="42" width="675" height="655" key="StructurePopup" timestamp="1590339004407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -118,5 +152,40 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="5" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590331995941" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1590847995452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590847995452" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CustomThread.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CustomThread.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CustomThread.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CustomThread.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CustomThread.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
