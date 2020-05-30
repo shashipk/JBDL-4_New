@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff46535e-e12f-4226-90d9-c9c62f3f357f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cMD6PyCy62CXeTrStDkhWMErCJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MTBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTBasics" />
+      <module name="MT-Maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MTBasics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff46535e-e12f-4226-90d9-c9c62f3f357f" name="Default Changelist" comment="" />
+      <created>1590329392562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590329392562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1590331710128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590331710128" />
+    <state x="175" y="0" key="#Project_Structure" timestamp="1590329848847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590329848847" />
+    <state x="444" y="5" key="#com.intellij.ide.util.MemberChooser" timestamp="1590336202350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="5" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590336202350" />
+    <state width="1311" height="139" key="GridCell.Tab.0.bottom" timestamp="1590339245776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
+    <state width="1311" height="139" key="GridCell.Tab.0.center" timestamp="1590339245776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
+    <state width="1311" height="139" key="GridCell.Tab.0.left" timestamp="1590339245775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590339245775" />
+    <state width="1311" height="139" key="GridCell.Tab.0.right" timestamp="1590339245776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590339245776" />
+    <state width="1311" height="197" key="GridCell.Tab.1.bottom" timestamp="1590335446840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="197" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
+    <state width="1311" height="197" key="GridCell.Tab.1.center" timestamp="1590335446840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="197" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
+    <state width="1311" height="197" key="GridCell.Tab.1.left" timestamp="1590335446840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="197" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
+    <state width="1311" height="197" key="GridCell.Tab.1.right" timestamp="1590335446840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="197" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590335446840" />
+    <state x="337" y="42" width="675" height="655" key="StructurePopup" timestamp="1590339004407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="42" width="675" height="655" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1590339004407" />
+    <state x="0" y="5" key="new project wizard" timestamp="1590331995941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="5" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590331995941" />
+  </component>
+</project>
