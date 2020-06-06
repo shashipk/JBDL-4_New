@@ -59,7 +59,7 @@ public class DBOperations {
 
         getConnection();
 
-        PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO person VALUES (null, ?, ?, ?)");
+        PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO person(id,name,age,address) VALUES (null, ?, ?, ?)");
         preparedStatement.setString(1, request.getName());
         preparedStatement.setInt(2, request.getAge());
         preparedStatement.setString(3, request.getAddress());
