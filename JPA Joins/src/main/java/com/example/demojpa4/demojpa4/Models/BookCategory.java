@@ -2,6 +2,7 @@ package com.example.demojpa4.demojpa4.Models;
 
 import javax.persistence.*;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Set;
 
 @Entity
@@ -14,7 +15,7 @@ public class BookCategory {
     private String name;
 
     @OneToMany(mappedBy = "bookCategory", cascade = CascadeType.ALL)
-    private Set<Book> books;
+    private List<Book> books;
 
     public int getId() {
         return id;
@@ -32,11 +33,11 @@ public class BookCategory {
         this.name = name;
     }
 
-    public Set<Book> getBooks() {
+    public List<Book> getBooks() {
         return books;
     }
 
-    public void setBooks(Set<Book> books) {
+    public void setBooks(List<Book> books) {
         this.books = books;
     }
 
@@ -44,7 +45,7 @@ public class BookCategory {
         this.name = name;
     }
 
-    public BookCategory(String name, Set<Book> books) {
+    public BookCategory(String name, List<Book> books) {
         this.name = name;
         this.books = books;
         this.books.forEach(x -> x.setBookCategory(this));

@@ -22,5 +22,8 @@ public interface BookRepository extends JpaRepository<Book, Integer> {
 //
 //    Book findById(int id);
 
+    @Query(value = "select * from Book b where b.author_name = ?1 and b.name = ?2", nativeQuery = true)
+    public List<Book> getBooksByAuthorAndBookName(String authorName, String bookName);
+
 
 }

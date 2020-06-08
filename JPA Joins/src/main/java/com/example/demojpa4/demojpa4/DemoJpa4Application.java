@@ -33,15 +33,15 @@ public class DemoJpa4Application implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 
-		Set<Book> books = new HashSet<>();
+//		Set<Book> books = new HashSet<>();
+////
+////		Book b1 = new Book("HTML", "BOB", 200);
+//		Book b2 = new Book("Jquery", "Louis", 240, 5);
+////
+////		books.add(b1);
+//		books.add(b2);
 //
-//		Book b1 = new Book("HTML", "BOB", 200);
-		Book b2 = new Book("Jquery", "Louis", 240, 5);
-//
-//		books.add(b1);
-		books.add(b2);
-
-		bookRepository.save(b2);
+//		bookRepository.save(b2);
 //		bookRepository.save(b1);
 //		bookRepository.saveAll(books);
 
