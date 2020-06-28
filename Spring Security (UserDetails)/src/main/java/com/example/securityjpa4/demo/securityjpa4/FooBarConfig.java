@@ -26,8 +26,8 @@ public class FooBarConfig extends WebSecurityConfigurerAdapter {
                 httpBasic()
                 .and()
                 .authorizeRequests()
-                .antMatchers("/admin/**").hasRole("admin_role")
-                .antMatchers("/student/**").hasAnyRole("student_role", "admin_role")
+                .antMatchers("/admin/**").hasAuthority("admin_role")
+                .antMatchers("/student/**").hasAnyAuthority("student_role", "admin_role")
                 .antMatchers("/**").permitAll()
                 .and()
                 .formLogin();
