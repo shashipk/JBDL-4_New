@@ -1,4 +1,6 @@
 # JBDL-4_New
+
+Minor Project Slides -> https://docs.google.com/presentation/d/1Vif4DYJbgNCpLLD9KKt-1tLdRCpsupLPtHfrwT5hcRk/edit#slide=id.g77b9bc1950_0_153
  
 MT Assignment -> https://docs.google.com/document/d/1dh-QJCBNoMBUQsyfC0W7Tw1TrgJEwxRC3C82MEcQCPg/edit
 MT Assignment Answers -> https://docs.google.com/document/d/1aiWKF6KuNQdHxMPMCvJP0fMUko3uO9cLSR1RrN9XLok/edit
