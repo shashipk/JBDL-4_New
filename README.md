@@ -11,6 +11,10 @@ Try to hit both the API (in two controllers i have autowired the same Bean, and 
 
 Useful links:
 
+For logging -> https://www.youtube.com/watch?v=lGrcZsw-hKQ
+
+For configuring properties in file -> 
+
 For REST APIs https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn (only first 7 videos of this playlist)
 
 For core Java: https://www.geeksforgeeks.org/java/ https://www.w3schools.com/JAVA/default.asp https://www.youtube.com/watch?v=W-N2ltgU-X4
