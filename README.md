@@ -13,7 +13,7 @@ Useful links:
 
 For logging -> https://www.youtube.com/watch?v=lGrcZsw-hKQ
 
-For configuring properties in file -> 
+For configuring properties in file -> https://www.youtube.com/watch?v=NFQDqEhx2e0
 
 For REST APIs https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn (only first 7 videos of this playlist)
 
