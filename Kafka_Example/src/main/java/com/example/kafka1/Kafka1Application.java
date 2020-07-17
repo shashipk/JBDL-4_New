@@ -1,18 +1,13 @@
-package com.shashi.App31;
+package com.example.kafka1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class App31Application {
+public class Kafka1Application {
 
 	public static void main(String[] args) {
-
-		SpringApplication.run(App31Application.class, args);
-
-
-
-
+		SpringApplication.run(Kafka1Application.class, args);
 	}
 
 }

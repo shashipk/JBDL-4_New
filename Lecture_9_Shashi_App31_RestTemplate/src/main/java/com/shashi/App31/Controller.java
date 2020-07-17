@@ -72,6 +72,8 @@ public class Controller {
         ResponseEntity<GitHubUser> response = restTemplate.getForEntity(String.format("https://api.github.com/users/%s", login), GitHubUser.class);
         System.out.println(response.getHeaders());
         System.out.println(response.getStatusCode());
+        GitHubUser gitHubUser = response.getBody();
+        System.out.println(gitHubUser.toString());
         return response;
     }
 

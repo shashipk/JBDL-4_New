@@ -9,7 +9,7 @@ public class UserService {
     HashMap<Integer,User> dataStore;
     public UserService(){
         dataStore = new HashMap<>();
-        User user = new User();
+        User user = new User(1,"Ramu",55);
         user.setAge(100);
         user.setId(1);
         user.setName("Ramu");
