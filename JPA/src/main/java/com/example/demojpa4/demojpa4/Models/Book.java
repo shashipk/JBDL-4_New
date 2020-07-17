@@ -3,7 +3,6 @@ package com.example.demojpa4.demojpa4.Models;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "")
 public class Book {
 
     @Id
