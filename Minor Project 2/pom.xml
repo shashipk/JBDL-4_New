@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <h2.version>1.4.196</h2.version>
+        <h2.version>2.1.210</h2.version>
 
         <spring.version>5.0.2.RELEASE</spring.version>
         <spring.hateoas.version>0.24.0.RELEASE</spring.hateoas.version>
